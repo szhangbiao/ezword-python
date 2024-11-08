@@ -6,6 +6,8 @@
 
 [Dict](https://github.com/kajweb/dict)
 [Dictionary](https://github.com/mahavivo/english-dictionary)
+[english-words](https://github.com/dwyl/english-words)
+[Mor](https://github.com/Zhangtd/MorTransformation)
 
 ### 单词发音
 
