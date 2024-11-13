@@ -24,6 +24,15 @@ https://dict.youdao.com/dictvoice?audio={word}&type={1|2}
 -   儿童英语
 -   成人英语
 
+### 竞品参考
+
+- [句乐部](https://julebu.co/) - [Github](https://github.com/cuixueshe/earthworm)
+- [ez背单词](https://ezbdc.dashu.ai/)
+- [可可背单词](http://word.kekenet.com/)
+- [扇贝](https://web.shanbay.com/web/main/index)
+- [typing-word](https://typing-word.ttentau.top/#/practice) - [Github](https://github.com/zyronon/typing-word)
+- [Qwerty Learner](https://qwerty.kaiyi.cool/) - [Github](https://github.com/RealKai42/qwerty-learner/)
+
 ### 产品渠道
 
 -   微信小程序
