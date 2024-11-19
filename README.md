@@ -32,6 +32,7 @@ https://dict.youdao.com/dictvoice?audio={word}&type={1|2}
 -   [扇贝](https://web.shanbay.com/web/main/index)
 -   [typing-word](https://typing-word.ttentau.top/#/practice) - [Github](https://github.com/zyronon/typing-word)
 -   [Qwerty Learner](https://qwerty.kaiyi.cool/) - [Github](https://github.com/RealKai42/qwerty-learner/)
+-   [词库 103976](https://github.com/1eez/103976)、[en2zh](https://github.com/heng1025/en2zh)、[ECDICT](https://github.com/skywind3000/ECDICT)
 
 ### 产品渠道
 
