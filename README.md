@@ -33,6 +33,8 @@ https://dict.youdao.com/dictvoice?audio={word}&type={1|2}
 -   [扇贝](https://web.shanbay.com/web/main/index)
 -   [typing-word](https://typing-word.ttentau.top/#/practice) - [Github](https://github.com/zyronon/typing-word)
 -   [Qwerty Learner](https://qwerty.kaiyi.cool/) - [Github](https://github.com/RealKai42/qwerty-learner/)
+-   [WordPecker](https://github.com/baturyilmaz/wordpecker-app)
+-   [批量记单词]()
 
 ### 产品渠道
 
