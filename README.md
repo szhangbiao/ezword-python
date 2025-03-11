@@ -9,6 +9,7 @@
 [english-words](https://github.com/dwyl/english-words)
 [Mor](https://github.com/Zhangtd/MorTransformation)
 [词库 103976](https://github.com/1eez/103976)、[en2zh](https://github.com/heng1025/en2zh)、[ECDICT](https://github.com/skywind3000/ECDICT)
+[DictionaryData](https://github.com/LinXueyuanStdio/DictionaryData)
 
 ### 单词发音
 
