@@ -36,6 +36,7 @@ https://dict.youdao.com/dictvoice?audio={word}&type={1|2}
 -   [Qwerty Learner](https://qwerty.kaiyi.cool/) - [Github](https://github.com/RealKai42/qwerty-learner/)
 -   [WordPecker](https://github.com/baturyilmaz/wordpecker-app)
 -   [DictionaryByGPT4](https://github.com/Ceelog/DictionaryByGPT4) 
+-   [NCE-Flow](https://github.com/luzhenhua/NCE-Flow)
 
 ### 产品渠道
 
