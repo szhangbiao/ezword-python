@@ -37,6 +37,7 @@ https://dict.youdao.com/dictvoice?audio={word}&type={1|2}
 -   [WordPecker](https://github.com/baturyilmaz/wordpecker-app)
 -   [DictionaryByGPT4](https://github.com/Ceelog/DictionaryByGPT4) 
 -   [NCE-Flow](https://github.com/luzhenhua/NCE-Flow)
+-   [NCE](https://github.com/iChochy/NCE)
 
 ### 产品渠道
 
